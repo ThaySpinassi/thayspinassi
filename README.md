@@ -1,6 +1,6 @@
 # Hello Devs! 👋 
 - 🙎🏽‍♀️ Meu nome é Thaynara
-- 🎂 Tenho 31 anos
+- 🎂 Tenho 32 anos
 - 🏠 Brasileira, morando em Portugal
 - ✅ Estou em transição de carreira
 - 🔭 Atualmente em busca de uma primeira oportunidade em TI e focada em aprender
