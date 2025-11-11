@@ -4,8 +4,7 @@
 - 🏠 Brasileira, morando em **Portugal**
 - 🔄 Em **transição de carreira**
 - 🚀 Em busca da **primeira oportunidade em TI** e focada em **aprender e evoluir**
-- 💻 Atualmente estudando **Data Analysis**
-- 📚 Estudando **Python para Data Science**
+- 💻 Atualmente estudando **SQL**
 
 ## 📫 Contato
 
